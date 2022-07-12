@@ -7,4 +7,13 @@
     <string name="more">More</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="categories">Categories</string>
+    <string name="apparel">Apparel</string>
+    <string name="beauty">Beauty</string>
+    <string name="shoes">Shoes</string>
+    <string name="see_all">See All</string>
+    <string name="latest">Latest</string>
+    <string name="first_tab_layout_text">ONE</string>
+    <string name="second_tab_layout_text">TWO</string>
+    <string name="third_tab_layout_text">THREE</string>
 </resources>

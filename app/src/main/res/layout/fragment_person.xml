@@ -3,6 +3,6 @@
     android:id="@+id/profile_layout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@mipmap/profiel_photo">
+    android:background="@mipmap/profiel_photo_background">
 
 </FrameLayout>
