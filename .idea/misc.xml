@@ -3,24 +3,42 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/BottomNavigation/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
         <entry key="..\:/Users/User/AndroidStudioProjects/BottomNavigation/app/src/main/res/drawable/button_apparel.xml" value="0.1" />
         <entry key="..\:/Users/User/AndroidStudioProjects/BottomNavigation/app/src/main/res/drawable/button_beauty.xml" value="0.1" />
         <entry key="..\:/Users/User/AndroidStudioProjects/BottomNavigation/app/src/main/res/drawable/button_seeall.xml" value="0.1" />
         <entry key="..\:/Users/User/AndroidStudioProjects/BottomNavigation/app/src/main/res/drawable/button_shoes.xml" value="0.1" />
         <entry key="..\:/Users/User/AndroidStudioProjects/BottomNavigation/app/src/main/res/drawable/button_style.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BottomNavigation/app/src/main/res/drawable/cart_icon.xml" value="0.1" />
         <entry key="..\:/Users/User/AndroidStudioProjects/BottomNavigation/app/src/main/res/drawable/first_tab_layout_icon.xml" value="0.1" />
         <entry key="..\:/Users/User/AndroidStudioProjects/BottomNavigation/app/src/main/res/drawable/firstpage_main.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BottomNavigation/app/src/main/res/drawable/home_icon.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BottomNavigation/app/src/main/res/drawable/ic_add_hidden_network.xml" value="0.1" />
         <entry key="..\:/Users/User/AndroidStudioProjects/BottomNavigation/app/src/main/res/drawable/ic_baseline_cruelty_free_24.xml" value="0.1" />
         <entry key="..\:/Users/User/AndroidStudioProjects/BottomNavigation/app/src/main/res/drawable/ic_baseline_liquor_24.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BottomNavigation/app/src/main/res/drawable/ic_baseline_wifi_protected_setup_24.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BottomNavigation/app/src/main/res/drawable/ic_data_usage.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BottomNavigation/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BottomNavigation/app/src/main/res/drawable/ic_my_network.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BottomNavigation/app/src/main/res/drawable/ic_settings.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BottomNavigation/app/src/main/res/drawable/ic_wifi_on_map.xml" value="0.1" />
         <entry key="..\:/Users/User/AndroidStudioProjects/BottomNavigation/app/src/main/res/drawable/icon_apparel.xml" value="0.1" />
         <entry key="..\:/Users/User/AndroidStudioProjects/BottomNavigation/app/src/main/res/drawable/latest_window_style.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BottomNavigation/app/src/main/res/drawable/more_icon.xml" value="0.1" />
         <entry key="..\:/Users/User/AndroidStudioProjects/BottomNavigation/app/src/main/res/drawable/profil_layout.xml" value="0.1" />
         <entry key="..\:/Users/User/AndroidStudioProjects/BottomNavigation/app/src/main/res/drawable/profile_icon.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BottomNavigation/app/src/main/res/drawable/search_icon.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BottomNavigation/app/src/main/res/drawable/second_tab_layout_icon.xml" value="0.1" />
         <entry key="..\:/Users/User/AndroidStudioProjects/BottomNavigation/app/src/main/res/drawable/seeall_icon.xml" value="0.1" />
-        <entry key="..\:/Users/User/AndroidStudioProjects/BottomNavigation/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BottomNavigation/app/src/main/res/drawable/side_nav_bar.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BottomNavigation/app/src/main/res/drawable/third_tab_layout_icon.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BottomNavigation/app/src/main/res/layout/activity_main.xml" value="0.16494845360824742" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BottomNavigation/app/src/main/res/layout/activity_main_drawer.xml" value="0.184375" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BottomNavigation/app/src/main/res/layout/app_bar_main.xml" value="0.2" />
         <entry key="..\:/Users/User/AndroidStudioProjects/BottomNavigation/app/src/main/res/layout/cart_layout.xml" value="0.1" />
         <entry key="..\:/Users/User/AndroidStudioProjects/BottomNavigation/app/src/main/res/layout/first_page_main.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/User/AndroidStudioProjects/BottomNavigation/app/src/main/res/layout/fragment_cart.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BottomNavigation/app/src/main/res/layout/fragment_first_container.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/User/AndroidStudioProjects/BottomNavigation/app/src/main/res/layout/fragment_home.xml" value="0.1" />
         <entry key="..\:/Users/User/AndroidStudioProjects/BottomNavigation/app/src/main/res/layout/fragment_more.xml" value="0.1" />
         <entry key="..\:/Users/User/AndroidStudioProjects/BottomNavigation/app/src/main/res/layout/fragment_one_tab_layot.xml" value="0.20416666666666666" />
@@ -30,9 +48,11 @@
         <entry key="..\:/Users/User/AndroidStudioProjects/BottomNavigation/app/src/main/res/layout/fragment_two_tab_layout.xml" value="0.19010416666666666" />
         <entry key="..\:/Users/User/AndroidStudioProjects/BottomNavigation/app/src/main/res/layout/home_layout.xml" value="0.1" />
         <entry key="..\:/Users/User/AndroidStudioProjects/BottomNavigation/app/src/main/res/layout/more_layout.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BottomNavigation/app/src/main/res/layout/nav_header_main.xml" value="0.184375" />
         <entry key="..\:/Users/User/AndroidStudioProjects/BottomNavigation/app/src/main/res/layout/profil_layout.xml" value="0.1" />
         <entry key="..\:/Users/User/AndroidStudioProjects/BottomNavigation/app/src/main/res/layout/profile_layout.xml" value="0.1" />
         <entry key="..\:/Users/User/AndroidStudioProjects/BottomNavigation/app/src/main/res/layout/search_layout.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BottomNavigation/app/src/main/res/menu/activity_main_drawer.xml" value="0.184375" />
         <entry key="..\:/Users/User/AndroidStudioProjects/BottomNavigation/app/src/main/res/menu/bottommenu.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/User/AndroidStudioProjects/BottomNavigation/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
         <entry key="..\:/Users/User/AndroidStudioProjects/BottomNavigation/app/src/main/res/mipmap-anydpi-v26/photo_latest.xml" value="0.1" />

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+    >
+
+    <group android:checkableBehavior="single"
+        android:menuCategory="container">
+        <item
+            android:id="@+id/nav_mynetwork"
+            android:icon="@drawable/ic_my_network"
+            android:title="@string/my_networks" />
+        <item
+            android:id="@+id/nav_wifi_on_map"
+            android:icon="@drawable/ic_wifi_on_map"
+            android:title="@string/wifi_on_map" />
+        <item
+            android:id="@+id/nav_data_usage"
+            android:icon="@drawable/ic_data_usage"
+            android:title="@string/data_usage" />
+    </group>
+    <group
+        android:menuCategory="container">
+        <item
+            android:id="@+id/nav_add_hidden_network"
+            android:icon="@drawable/ic_add_hidden_network"
+            android:title="@string/add_hidden_network" />
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/ic_settings"
+            android:title="@string/settings"
+            />
+
+    </group>
+</menu>

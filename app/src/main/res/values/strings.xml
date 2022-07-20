@@ -16,4 +16,9 @@
     <string name="first_tab_layout_text">ONE</string>
     <string name="second_tab_layout_text">TWO</string>
     <string name="third_tab_layout_text">THREE</string>
+    <string name="data_usage">Data Usage</string>
+    <string name="wifi_on_map">Wifi On Map</string>
+    <string name="my_networks">My Networks</string>
+    <string name="add_hidden_network">Add Hidden Network</string>
+    <string name="settings">Settings</string>
 </resources>

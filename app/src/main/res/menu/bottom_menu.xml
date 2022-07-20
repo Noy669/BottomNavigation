@@ -13,7 +13,7 @@
         android:icon="@drawable/cart_icon"
         android:title="@string/cart" />
     <item
-        android:id="@+id/bottom_profile"
+        android:id="@+id/bottom_person"
         android:icon="@drawable/profile_icon"
         android:title="@string/profile" />
     <item
