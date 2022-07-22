@@ -30,4 +30,9 @@
         android:id="@+id/bottom_search"
         android:name="com.example.bottomnavigation.SearchFragment"
         android:label="SearchFragment" />
+    <fragment
+        android:id="@+id/listFragment"
+        android:name="com.example.bottomnavigation.ListFragment"
+        android:label="fragment_list"
+        tools:layout="@layout/fragment_list" />
 </navigation>

@@ -28,7 +28,7 @@
         android:gravity="center"
         android:textStyle="bold"
         android:paddingTop="15dp"
-        android:text="Jay Frazier"
+        android:text="@string/jay_frazier"
         android:textAppearance="@style/TextAppearance.AppCompat.Body1" />
 
     <TextView
@@ -36,5 +36,5 @@
         android:layout_gravity="center"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="jay.frazier@gmail.com" />
+        android:text="@string/jay_frazier_gmail_com" />
 </LinearLayout>

@@ -1,0 +1,49 @@
+package com.example.bottomnavigation
+
+import android.os.Bundle
+import androidx.fragment.app.Fragment
+import android.view.LayoutInflater
+import android.view.View
+import android.view.ViewGroup
+import android.widget.ArrayAdapter
+import android.widget.ListView
+import com.example.bottomnavigation.adapter.CustomAdapter
+
+
+class ListFragment : Fragment() {
+    private lateinit var listView: ListView
+    private lateinit var customAdapter: CustomAdapter
+    private var nameList = ArrayList<User>()
+
+
+    override fun onCreateView(
+        inflater: LayoutInflater, container: ViewGroup?,
+        savedInstanceState: Bundle?
+    ): View? {
+        return inflater.inflate(R.layout.fragment_list, container, false)
+    }
+
+    override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
+        super.onViewCreated(view, savedInstanceState)
+        initList()
+    }
+
+
+    private fun initList() {
+        nameList = ArrayList()
+        nameList.add(User("Ucom","https://seeklogo.com/images/U/ucom-logo-5E4B7F693C-seeklogo.com.png"))
+        nameList.add(User("Team","data:image/png;base64,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"))
+        nameList.add(User("Viva Cell","https://seeklogo.com/images/V/VivaCell-MTS-logo-0ED4859A55-seeklogo.com.png"))
+
+        customAdapter = context?.let {
+            CustomAdapter(
+                it,
+                R.layout.item_user,
+                nameList
+            )
+        }!!
+
+        listView = requireView().findViewById(R.id.listView)
+        listView.adapter = customAdapter
+    }
+}
